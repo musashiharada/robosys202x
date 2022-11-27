@@ -6,10 +6,10 @@ about plus_stdin
 ![test](https://github.com/musashiharada/robosys202x/actions/workflows/test.yml/badge.svg)
 
 
-#機能
+# 機能
 1から指定した整数までを連続で足す
 
-#使い方
+# 使い方
 使用例として5まで足すとするとき
 入力
 ```
