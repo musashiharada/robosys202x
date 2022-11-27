@@ -5,7 +5,6 @@ about plus_stdin
 # plusコマンド
 ![test](https://github.com/musashiharada/robosys202x/actions/workflows/test.yml/badge.svg)
 
-作ったコマンドをテストして上手くいくか確認するためのソフト
 
 ##機能
 1から指定した整数までを連続で足す
