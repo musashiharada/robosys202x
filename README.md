@@ -5,13 +5,9 @@
 ![test](https://github.com/musashiharada/robosys202x/actions/workflows/test.yml/badge.svg)
 
 # コマンドのインストール方法
-まずpython-pipがなかった場合はインストールする
+下記のように書く
 ```
-$ sudo apt install python-pip
-```
-次に下記のように書く
-```
-$ pip install git+ https://github.com/musashiharada/robosys202x.git
+$ git clone https://github.com/musashiharada/robosys202x.git
 ```
 
 # 機能
